@@ -6,7 +6,7 @@
 <p align="center">
   <a href="mailto:alitojiboyev787@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://profile.hackthebox.com/profile/019d2f88-c482-7384-a52c-991b3074cf2a"><img src="https://img.shields.io/badge/Hack%20The%20Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" alt="HackTheBox"/></a>
-  <img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-555555?style=for-the-badge" alt="Portfolio"/>
+  <a href="https://gigabyte-mentalist.github.io"><img src="https://img.shields.io/badge/Portfolio-Live-3ddc97?style=for-the-badge&logo=githubpages&logoColor=black" alt="Portfolio"/></a>
 </p>
 
 ---
